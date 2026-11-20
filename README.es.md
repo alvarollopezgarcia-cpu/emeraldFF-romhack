@@ -20,7 +20,7 @@ Un hack de Pokémon Esmeralda centrado en la dificultad, en español, compilado 
 
 Guías en PDF con los cambios de estadísticas de los Pokémon, los encuentros salvajes y el equipo de cada entrenador importante:
 
-> 📁 **[Documentación en Google Drive](https://drive.google.com/drive/folders/12XBxm5k3Po57j-Xq7z6-83392AX4XSWC)** (solo lectura)
+> 📁 **[Documentación en Google Drive](https://drive.google.com/drive/folders/1X7U3qSoCkZmtn9oEiggJ291KKCRRhj-f)** (solo lectura)
 
 ## Cómo jugar
 
