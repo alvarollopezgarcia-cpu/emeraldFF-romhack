@@ -1,0 +1,9 @@
+# Release files are attached to GitHub Releases, not committed
+dist/
+__pycache__/
+
+# Never commit game files
+*.gba
+*.sav
+*.ss[0-9]
+*.sgm
