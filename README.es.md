@@ -4,7 +4,10 @@
 
 Un hack de Pokémon Esmeralda centrado en la dificultad, en español, compilado desde el código fuente sobre [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (la decompilación del juego hecha por la comunidad, ampliada con mecánicas modernas). Está en desarrollo y se distribuye como parche.
 
-<!-- Capturas: añade 2-4 imágenes en docs/ y enlázalas aquí, p. ej. ![Combate de gimnasio](docs/gym.png) -->
+| | |
+|---|---|
+| ![Pantalla de título](docs/title.png) | ![Ciudad Férrica, traducida](docs/overworld.png) |
+| ![Eligiendo el combate difícil del gimnasio](docs/hard-mode.png) | ![Una líder de gimnasio rehecha con sprite propio](docs/gym-leader.png) |
 
 ## Características
 

@@ -4,7 +4,10 @@
 
 A difficulty-focused hack of Pokémon Emerald, in Spanish, built from source on top of [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (the community decompilation of the game, extended with modern mechanics). It's a work in progress, distributed as a patch.
 
-<!-- Screenshots: add 2-4 images to docs/ and list them here, e.g. ![Gym battle](docs/gym.png) -->
+| | |
+|---|---|
+| ![Title screen](docs/title.png) | ![Rustboro City, translated](docs/overworld.png) |
+| ![Choosing the hard gym battle](docs/hard-mode.png) | ![A reworked gym leader with a custom sprite](docs/gym-leader.png) |
 
 ## Features
 
