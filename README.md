@@ -1,8 +1,8 @@
-# Pokémon Emerald ROM hack (Spanish)
+# EmeraldFF
 
 &nbsp;[Leer en español](README.es.md)
 
-A difficulty-focused hack of Pokémon Emerald, in Spanish, built from source on top of [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (the community decompilation of the game, extended with modern mechanics). It's a work in progress, distributed as a patch.
+**EmeraldFF** is a difficulty-focused hack of Pokémon Emerald, in Spanish, built from source on top of [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (the community decompilation of the game, extended with modern mechanics). It's a work in progress, distributed as a patch.
 
 | | |
 |---|---|

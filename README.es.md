@@ -1,8 +1,8 @@
-# ROM hack de Pokémon Esmeralda (en español)
+# EmeraldFF
 
 &nbsp;[Read in English](README.md)
 
-Un hack de Pokémon Esmeralda centrado en la dificultad, en español, compilado desde el código fuente sobre [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (la decompilación del juego hecha por la comunidad, ampliada con mecánicas modernas). Está en desarrollo y se distribuye como parche.
+**EmeraldFF** es un hack de Pokémon Esmeralda centrado en la dificultad, en español, compilado desde el código fuente sobre [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion) (la decompilación del juego hecha por la comunidad, ampliada con mecánicas modernas). Está en desarrollo y se distribuye como parche.
 
 | | |
 |---|---|
