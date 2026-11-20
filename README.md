@@ -20,8 +20,7 @@ A difficulty-focused hack of Pokémon Emerald, in Spanish, built from source on 
 
 PDF guides with the changes to Pokémon stats, wild encounters, and every important trainer's team:
 
-<!-- Replace with the shared Google Drive folder link -->
-> 📁 _Link coming soon_
+> 📁 **[Documentation on Google Drive](https://drive.google.com/drive/folders/1uUdtZ25QnLykIX0ZAZ54rQA_Av3_dVK1)** (Spanish, view only)
 
 ## How to play
 
